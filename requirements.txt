@@ -1,0 +1,6 @@
+Flask
+PyMuPDF
+pandas
+lxml
+pyreadstat
+gunicorn
